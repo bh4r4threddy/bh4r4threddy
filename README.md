@@ -7,9 +7,9 @@ I'm **Bharath Kumar**, a professional penetration tester and red teamer with  **
 ## Skills & Tools
 
 - **Penetration Testing:** `nmap`, `Burp Suite`, `Metasploit`
-- **Scripting & Automation:** Python, Bash
-- **Red Team Operations:** Social engineering, exploit development, custom tool development
-- **Additional Tools:** Wireshark, SQLMap, Hydra, John the Ripper
+- **Scripting & Automation:** `Python`, `Bash`
+- **Red Team Operations:** `Social engineering`, `exploit development`, `custom tool development`
+- **Additional Tools:** `Wireshark`, `SQLMap`, `Hydra`, `John the Ripper`
 
 ## Projects
 
@@ -39,5 +39,5 @@ I'm **Bharath Kumar**, a professional penetration tester and red teamer with  **
 ## Contact
 
 ```bash
-$ echo "Connect with me on LinkedIn: [https://www.linkedin.com/in/bharath](https://www.linkedin.com/in/bharathreddy1405/)"
+$ echo "Connect with me on LinkedIn: https://www.linkedin.com/in/bharathreddy1405/"
 ```
