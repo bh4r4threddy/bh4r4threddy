@@ -6,10 +6,10 @@ I'm **Bharath Kumar**, a professional penetration tester and red teamer with  **
 
 ## Skills & Tools
 
-- **Penetration Testing:**  ![image](https://github.com/user-attachments/assets/8b6b3e10-28a0-4e27-bd91-578c9126bedc) ![image](https://github.com/user-attachments/assets/cba5298e-6f0d-41a7-8fa3-16de572ca031) ![image](https://github.com/user-attachments/assets/1cf57805-141d-4487-8b89-63de4f8ba0eb)
-- **Scripting & Automation:** ![image](https://github.com/user-attachments/assets/4c5792bb-69d3-4a39-8c86-63e68f126e9f) ![image](https://github.com/user-attachments/assets/efb92f7d-3682-4330-a940-6a54be8f6122) ![image](https://github.com/user-attachments/assets/9daf7f78-9864-427c-86ae-a2161c5ae51d)
+- **Penetration Testing:** `nmap`, `Burp Suite`, `Metasploit`
+- **Scripting & Automation:** Python, Bash
 - **Red Team Operations:** Social engineering, exploit development, custom tool development
-- **Additional Tools:** ![image](https://github.com/user-attachments/assets/9589d0d3-7cab-4b66-8bda-0f15eccab54d) ![image](https://github.com/user-attachments/assets/006bfe54-752b-4654-a366-2c9d87c7076d) ![image](https://github.com/user-attachments/assets/9306c40f-6f09-4729-a784-eddac2c4fba6) ![image](https://github.com/user-attachments/assets/094bb582-4ad8-4903-8c6e-e5660579f4e3)
+- **Additional Tools:** Wireshark, SQLMap, Hydra, John the Ripper
 
 ## Projects
 
@@ -39,6 +39,5 @@ I'm **Bharath Kumar**, a professional penetration tester and red teamer with  **
 ## Contact
 
 ```bash
-$ echo "Connect with me on LinkedIn: https://www.linkedin.com/in/yourprofile"
-$ echo "Follow me on Twitter: https://twitter.com/yourhandle"
+$ echo "Connect with me on LinkedIn: [https://www.linkedin.com/in/bharath](https://www.linkedin.com/in/bharathreddy1405/)"
 ```
